@@ -1,1 +1,2 @@
 Today was september 19th and I am reading  a book about chairs and the cnc for my project. I need to figure out in the coming days/weeks what excatly I am going to be doing for this project, even though I have the general idea down.
+Today was september 24th and I am finalizing my project idea. I plan on creating a stool that when someone sits or stands on it the sensor will be there and the LED lights will turn on and flash around the stool.
