@@ -29,3 +29,18 @@ Tools Practice & Material Confirmation
 October 14
 Digital Portfolio Setup
  Today, I downloaded the Jekyll template for my digital portfolio. I edited the config.yml file to add a photo path, wrote a short bio, and included a brief description of myself. My digital portfolio is now officially set up.
+
+October 16th
+Documentation
+Today I finalized and proofread all of this documentation, both the writing portion and the images. Then I gave Mr. Dubick the link.
+
+October 17th 
+Today Mr. Dubick taught us how to set up pages and posts in github. That is all we did in class today.
+
+October 29th 
+Today is my first day back. I had acl and meniscus surgery and was out for an entire week, but after 8 days I am back. We learned about making a tool path on makeracam, and some partners and I made a workflow about the steps with importing the pcbs, 2D drilling, 2D contouring, 2D drilling, choosing the different tools, and then previewing the tool path to make sure everything is right. I successfully made my file and sent it to drive as a resistor g code.nc file. 
+Link to workflow: https://docs.google.com/document/d/1CaDUQ4LmfPJc6pKK6p19hoUctoCXxTt6e9c5fYZ9dEQ/edit
+October 30th
+Today I made a workflow and milled my board using canvera.All of the key steps for milling is on this workflow- and I enjoyed using this machine because it was my first time interacting with this new technology and it was interesting to see. I took some pictures of the process and will document those once I organize it- the link to the workflow is here. 
+Picture: 
+Link: https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit?tab=t.0
