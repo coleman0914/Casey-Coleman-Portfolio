@@ -29,7 +29,6 @@ Tools Practice & Material Confirmation
 October 14
 Digital Portfolio Setup
  Today, I downloaded the Jekyll template for my digital portfolio. I edited the config.yml file to add a photo path, wrote a short bio, and included a brief description of myself. My digital portfolio is now officially set up.
-
 October 16th
 Documentation
 Today I finalized and proofread all of this documentation, both the writing portion and the images. Then I gave Mr. Dubick the link.
@@ -44,3 +43,4 @@ October 30th
 Today I made a workflow and milled my board using canvera.All of the key steps for milling is on this workflow- and I enjoyed using this machine because it was my first time interacting with this new technology and it was interesting to see. I took some pictures of the process and will document those once I organize it- the link to the workflow is here. 
 Picture: 
 Link: https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit?tab=t.0
+
