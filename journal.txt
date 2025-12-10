@@ -21,3 +21,8 @@ Today I made a workflow and milled my board using canvera.All of the key steps f
 Picture: 
 Link: https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit?tab=t.0
 From Nov 3–6 I worked on two hands‑on projects and the site housekeeping to publish them: I milled a small PCB on the Canvera machine (documenting the workflow and exporting G‑code), finished a pen‑turning project (including a failed first attempt and a successful second try), and cleaned up the Jekyll posts so they publish—fixing a malformed front matter, adding the right categories so posts show in the archive, and renaming a couple of images so they load on the site.
+From Nov 11-20 I learned about topography- learned aspire and how to manipulate the x y z planes and then used bantam and homing and all the proper features to mill my mountain range which was of Cashiers, NC- where I spend some time in the mountains in the summer. - for more detail look at topography post on jekyll
+Nov 20- dec 1- thanksgiving break 
+
+Dec 1- 8- this week we worked on electronics in tinkercad- Mr dubick said we dont need a large description for this
+Dec 9- today I created my topography post for my jekyll- now my jekyll is fully up to date with pen-owl-topography and other projects. 
